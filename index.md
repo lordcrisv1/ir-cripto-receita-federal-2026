@@ -1,16 +1,14 @@
 
 ---
-layout: default
-title: "Como Declarar Criptomoedas no Imposto de Renda de 2026"
 ---
 
 # Como Declarar Criptomoedas no Imposto de Renda de 2026
 
-Você compra, vende ou movimenta criptoativos? Então precisa prestar atenção nisso:
+Você compra, vende ou movimenta criptoativos? Então precisa prestar atenção nisso.
 
 ## A Receita Federal está de olho.
 
-Se você negociou criptomoedas em 2025, **é obrigado por lei** a declarar corretamente no IRPF de 2026 — mesmo que tenha operado em corretoras estrangeiras, usado stablecoins ou feito apenas algumas vendas.
+Se você negociou criptomoedas em 2025, é obrigado por lei a declarar corretamente no IRPF de 2026 — mesmo que tenha operado em corretoras estrangeiras, usado stablecoins ou feito apenas algumas vendas.
 
 ---
 
@@ -25,9 +23,9 @@ Você precisa saber:
 - Em qual cotação (em reais)
 - Quando vendeu
 - Qual foi o lucro líquido
-- Se teve isenção ou se deve imposto
+- Se deve imposto
 
-E se **errando a Receita te autuar**, você paga multa de até 75% do valor devido.
+E se errar e a Receita te autuar, você pode pagar multa de até 75% do valor devido.
 
 ---
 
@@ -37,7 +35,7 @@ Uma calculadora 100% online, gratuita até 3 transações, que faz o trabalho du
 
 - ✅ Converte automaticamente o valor para reais com base na cotação do dia
 - ✅ Aplica o método FIFO (obrigatório por lei)
-- ✅ Mostra se você está isento ou não
+- ✅ Mostra se há imposto devido
 - ✅ Gera PDF e CSV prontos para entregar ao contador ou anexar no GCAP
 - ✅ Não exige CPF, carteira ou senha
 
@@ -56,9 +54,8 @@ Você pode até usar um e-mail alternativo. Ninguém está atrás dos seus dados
 ## Quem mais precisa disso?
 
 - Pessoas que usaram Binance, OKX, KuCoin ou Mercado Bitcoin
-- Quem fez mais de R$ 35.000 em vendas em um mês
-- Quem lucrou e não quer cair na malha fina
-- Quem quer declarar cripto **do jeito certo** sem fazer besteira
+- Quem teve lucro e quer declarar corretamente
+- Quem quer declarar cripto do jeito certo sem fazer besteira
 
 ---
 
@@ -83,9 +80,6 @@ Sem cartão. Sem cadastro. Sem enrolação.
 
 **E se eu só comprei e nunca vendi?**  
 > Você ainda precisa declarar na ficha "Bens e Direitos", e a CriptoIRPF te ajuda a organizar isso.
-
-**E se eu vendi menos de R$ 35 mil em um mês?**  
-> Provavelmente você está isento. A calculadora mostra isso.
 
 **Preciso de contador?**  
 > A ferramenta pode ser usada por você ou pelo seu contador.
