@@ -58,7 +58,7 @@ Você pode até usar um e-mail alternativo. Ninguém está atrás dos seus dados
 - Pessoas que usaram Binance, OKX, KuCoin ou Mercado Bitcoin
 - Quem fez mais de R$ 35.000 em vendas em um mês
 - Quem lucrou e não quer cair na malha fina
-- Quem quer declarar cripto **do jeito certo** sem depender de contador
+- Quem quer declarar cripto **do jeito certo** sem fazer besteira
 
 ---
 
